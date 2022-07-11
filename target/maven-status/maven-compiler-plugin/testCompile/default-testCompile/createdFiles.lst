@@ -1,0 +1,12 @@
+com\Checkedin\testcases\TC_LoginDDT_003.class
+com\Checkedin\pageObjects\NewAutoSite.class
+com\Checkedin\testcases\BaseClass.class
+com\Checkedin\pageObjects\AddWebsite.class
+com\Checkedin\pageObjects\LoginPage.class
+com\Checkedin\testcases\Tc_AddNewCustomer_004.class
+com\Checkedin\pageObjects\RegisterNewUserAccount.class
+com\Checkedin\utilities\Readconfig.class
+com\Checkedin\utilities\XLUtils.class
+com\Checkedin\utilities\Reporting.class
+com\Checkedin\testcases\TC_AddWebsite_002.class
+com\Checkedin\testcases\Tc_LoginTestcase_001.class
